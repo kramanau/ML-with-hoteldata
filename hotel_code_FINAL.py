@@ -2,7 +2,7 @@
 """
 Created on Mon Apr  6 21:27:32 2020
 
-@author: sivan
+@author: sivan, karolis, yogesh
 """
 
 #Packages
